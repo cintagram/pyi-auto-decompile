@@ -5,6 +5,7 @@ Since its Korean, if you want english, open the issue.
 
 # Setup
 You may need Visual C++.
+You need Python 3.9+.
 
 ```
 git clone https://github.com/cintagram/pyi-auto-decompile
