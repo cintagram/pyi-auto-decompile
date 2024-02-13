@@ -36,6 +36,11 @@ This tool also works in iphone iSH Shell app.
 7. The app will exit, you reopen.
 8. I wrote instructions in env intro, follow them.
 
+# ToDo
+use other pyc pyz when os/re pyc nonexist
+
+somehin else
+
 # Credits
 - pyinstxtractor: extremecoders-re
 - pydumpck original: serfend
