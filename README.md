@@ -27,7 +27,7 @@ pip install -e .
 4. Wait 4 decompiler to finish.
 5. Once finished, check `pyc_dec/<filename>.pyc.cdc.py`
 
-# iSH Shell Environment
+# iSH Shell Environment (iOS No JB)
 This tool also works in iphone iSH Shell app.
 
 1. Download ishenv.tar.gz on releases.
@@ -39,10 +39,29 @@ This tool also works in iphone iSH Shell app.
 7. The app will exit, you reopen.
 8. I wrote instructions in env intro, follow them.
 
-# ToDo
-use other pyc pyz when os/re pyc nonexist
+# Android Termux
+install these libs and git clone this repo and do it yourself
+I dont have android device (physical)
+```
+gcc
+clang
+clang++
+rust
+golang
+python
+python-pip
+openssl
+libxml2-dev
+openjdk-17
+binutils
+cmake
+automake
+git
+aapt
+```
+pip: tinyaes
+(not all is listed here)
 
-somehin else
 
 # Credits
 - pyinstxtractor: extremecoders-re
