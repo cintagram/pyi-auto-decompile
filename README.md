@@ -15,7 +15,6 @@ git clone https://github.com/cintagram/pyi-auto-decompile
 git clone https://github.com/cintagram/pydumpck/
 
 cd pydumpck
-cd pydumpck-1.17.9
 pip install -e .
 ```
 
