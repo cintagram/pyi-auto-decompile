@@ -8,7 +8,7 @@ Since its Korean, if you want english, open the issue.
 
 # Setup
 You may need Visual C++.
-You need Python 3.9+.
+You need Python 3.11+.
 
 ```
 git clone https://github.com/cintagram/pyi-auto-decompile
@@ -27,12 +27,12 @@ pip install -e .
 5. Once finished, check `pyc_dec/<filename>.pyc.cdc.py`
 
 # iSH Shell Environment (iOS No JB)
-This tool also works in iphone iSH Shell app.
+This tool also works in iphone iSH Shell app which is in the appstore.
 
 1. Download ishenv.tar.gz on releases.
 2. open ish shell, go to settings.
 3. go to Filesystems, click import.
-4. Select ishenv.tar.gx which you downloaded.
+4. Select system_env.tar.gz which you downloaded.
 5. Wait until finish.
 6. When finished, click ishenv, click Boot from this filesystem.
 7. The app will exit, you reopen.
