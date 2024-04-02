@@ -4,7 +4,7 @@ decompiles the pyinstaller exe with auto magic hex patching.
 Since its Korean, if you want english, open the issue.
 
 # Todo & Current Issues
-- **Current Issue**: main pyc in exe built from python3.11 often fails. You can view [THIS](https://github.com/cintagram/pyi-auto-decompile/issues/2) issue for more details. I will fix this.
+- **Current Issue**: unable to decrypt pyc from above 3.11 (fixing)
 
 # Setup
 You may need Visual C++.
