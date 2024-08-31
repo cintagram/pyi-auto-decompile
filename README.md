@@ -3,6 +3,8 @@ decompiles the pyinstaller exe with auto magic hex patching.
 
 Since its Korean, if you want english, open the issue.
 
+# will restart proj on 9.7
+
 # Todo & Current Issues
 - **Current Issue**: unable to decrypt pyc from above 3.11 (fixing)
 
